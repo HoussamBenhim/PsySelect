@@ -11,7 +11,7 @@
         </nuxt-link>
       </li>
       <li>
-        <nuxt-link to="/" class="hover:no-underline  pr-5">
+        <nuxt-link to="/" class="hover:no-underline text-red pr-5">
           <glob class="p-2 " w="25" h="25"></glob>
         </nuxt-link>
       </li>
@@ -51,8 +51,4 @@ export default {
   },
 };
 </script>
-<style scoped>
-.ion-ios-time {
-  color: red !important;
-}
-</style>
+<style scoped></style>
