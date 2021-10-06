@@ -1,7 +1,7 @@
 <template>
   <footer>
     <div
-      class=" bg-secondary w-full fixed bottom-0 left-0 z-10  mx-auto py-0 px-4 overflow-hidden sm:px-6 lg:px-8"
+      class=" bg-secondary w-full  bottom-0 left-0 z-10   py-0 px-4 overflow-hidden sm:px-6 lg:px-8"
     >
       <nav
         class="container h-40 flex justify-center items-center"
