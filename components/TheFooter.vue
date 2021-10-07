@@ -11,16 +11,16 @@
           class="hidden lg:flex w-1/3 h-full mt-6  flex-col items-center justify-start  "
         >
           <img
-            src="@/assets/images/PsySelect_Logo.JPG"
+            src="@/assets/images/Logo_Septembre_2021_large.png"
             alt="PsySelect"
-            width="60"
-            height="60"
+            width="250"
+            height="250"
           />
-          <span
+          <!--span
             class="self-center font-bold text-xl  md:text-4xl tracking-widest  text-elevated "
           >
             PsySelect
-          </span>
+          </span-->
         </div>
         <div
           class="w-full lg:w-2/3 h-full mt-6  flex flex-row items-start justify-evenly"
