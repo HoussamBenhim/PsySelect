@@ -1,11 +1,11 @@
 <template>
-  <div class="border">
+  <div>
     <input
       :id="id"
       :type="type"
       :autocomplete="autocomplete"
       :required="required"
-      class="rounded-sm relative block w-full px-3 py-2 placeholder-gray-500 text-gray-900 focus:outline-none sm:text-sm"
+      class="rounded-md relative border-2 border-primary h-full w-full block px-3 py-2 placeholder-gray-500 text-gray-900 focus:outline-none sm:text-sm"
       :placeholder="placeHolder"
       :value="modelValue"
       @input="$emit('update:modelValue', $event.target.value)"

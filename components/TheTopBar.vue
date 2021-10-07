@@ -7,8 +7,8 @@
         <div class="w-auto text-white">
           <NuxtLink to="/" class="hover:no-underline flex">
             <img
-              class="rounded-full mr-2 profile-pic border-white border"
-              src="@/assets/images/logo.JPG"
+              class=" mr-2  border-black border-2"
+              src="@/assets/images/PsySelect_Logo.JPG"
               alt="PsySelect"
               width="50"
               height="50"
@@ -25,9 +25,9 @@
         </div>
         <button class="block lg:hidden" aria-label="open menu" @click="toggle">
           <ul v-if="!isOpen" class="hamburger text-black">
-            <li class="bg-black" />
-            <li class="bg-black" />
-            <li class="bg-black" />
+            <li class="bg-dark" />
+            <li class="bg-dark" />
+            <li class="bg-dark" />
           </ul>
           <span v-if="isOpen" aria-label="close menu">
             <close-icon h="50" w="50" />

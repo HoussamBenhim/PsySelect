@@ -11,7 +11,7 @@
           class="hidden lg:flex w-1/3 h-full mt-6  flex-col items-center justify-start  "
         >
           <img
-            src="@/assets/images/logo.JPG"
+            src="@/assets/images/PsySelect_Logo.JPG"
             alt="PsySelect"
             width="60"
             height="60"
