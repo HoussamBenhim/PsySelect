@@ -42,13 +42,13 @@
             </div>
             <div class="hidden lg:flex my-24   w-1/2 ">
               <div class="">
-                <img
+                <!-- <img
                   class=" mr-2  border-white border"
                   src="@/assets/images/PsySelect_Logo.JPG"
                   alt="PsySelect"
-                  width="50"
-                  height="50"
-                />
+                  width="100"
+                  height="100"
+                /> -->
               </div>
             </div>
           </div>
