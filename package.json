@@ -1,0 +1,19 @@
+{
+    "name": "psyselect",
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "nuxt": "^2.15.8",
+        "vue-ionicons": "^3.0.5"
+    },
+    "devDependencies": {
+        "@nuxtjs/tailwindcss": "^4.2.1",
+        "autoprefixer": "^10.3.7",
+        "postcss": "^8.3.9",
+        "tailwindcss": "^2.2.16"
+    }
+}
