@@ -27,25 +27,25 @@
         >
           <div class="flex flex-col">
             <NuxtLink
-              to="/contact"
+              to="/"
               class="text-base text-elevated font-medium border-b-2 border-primary  hover:text-primary"
             >
               PsySelect
             </NuxtLink>
             <NuxtLink
-              to="/contact"
+              to="/"
               class="text-base text-elevated font-medium hover:text-primary"
             >
               About
             </NuxtLink>
             <NuxtLink
-              to="/contact"
+              to="/"
               class="text-base text-elevated font-medium hover:text-primary"
             >
               Contact us
             </NuxtLink>
             <NuxtLink
-              to="/contact"
+              to="/"
               class="text-base text-elevated font-medium hover:text-primary"
             >
               Privacy
@@ -53,19 +53,19 @@
           </div>
           <div class="flex flex-col">
             <NuxtLink
-              to="/contact"
+              to="/"
               class="text-base text-elevated font-medium border-b-2 border-primary  hover:text-primary"
             >
               For Users
             </NuxtLink>
             <NuxtLink
-              to="/contact"
+              to="/"
               class="text-base text-elevated font-medium hover:text-primary"
             >
               How does it work?
             </NuxtLink>
             <NuxtLink
-              to="/contact"
+              to="/"
               class="text-base text-elevated font-medium hover:text-primary"
             >
               Keep me posted!
@@ -74,19 +74,19 @@
 
           <div class="flex flex-col">
             <NuxtLink
-              to="/contact"
+              to="/"
               class="text-base text-elevated font-medium border-b-2 border-primary   hover:text-primary"
             >
               For Mental Health Services
             </NuxtLink>
             <NuxtLink
-              to="/contact"
+              to="/"
               class="text-base text-elevated font-medium hover:text-primary"
             >
               How does it work?
             </NuxtLink>
             <NuxtLink
-              to="/contact"
+              to="/"
               class="text-base text-elevated font-medium  hover:text-primary"
             >
               Tell us about your offer

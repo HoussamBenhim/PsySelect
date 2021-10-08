@@ -1,8 +1,6 @@
 export default {
   components: true,
-  generate: {
-    dir: "public",
-  },
+
   head: {
     titleTemplate: "PsySelect",
     htmlAttrs: {
