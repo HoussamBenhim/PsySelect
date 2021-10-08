@@ -54,12 +54,12 @@
           </div>
         </div>
 
-        <!-- Partie en Blue ----------------------------------------------------------->
+        <!-- Partie en Blue -->
         <div class=" flex  flex-col  w-full  bg-primary">
           <div
             class="container my-14 flex flex-row justify-center items-center"
           >
-            <!-- Partie en Logo --->
+            <!-- Partie en Logo -->
             <div class="hidden  w-5/12   md:flex justify-center">
               <img
                 src="@/assets/images/Logo_Septembre_2021_large.png"
