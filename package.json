@@ -3,8 +3,8 @@
     "scripts": {
         "dev": "nuxt",
         "build": "nuxt build",
-        "start": "nuxt start",
-        "generate": "nuxt generate"
+        "start": "nuxt start"
+       
     },
     "dependencies": {
         "nuxt": "^2.15.8",
